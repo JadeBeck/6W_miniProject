@@ -1,4 +1,4 @@
-
+ //브랜치 테스트
 const MypagesRepository = require("../repositories/mypages.repository")
 
 const dom = function rand(min, max) {
